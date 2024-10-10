@@ -1,7 +1,7 @@
 image:
   repository: ghcr.io/hotio/whisparr
   pullPolicy: IfNotPresent
-  tag: v3-3.0.0.599@sha256:6f9947f80e62fe2400b86207597b1130652cf293f169c8152130a60b72b885f0
+  tag: v3-3.0.0.617@sha256:726dba5c137e8502eb6bcb4b97dcfb1b80675254534fa936e4e8041963df9527
 securityContext:
   container:
     readOnlyRootFilesystem: false
